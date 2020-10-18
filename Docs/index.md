@@ -22,3 +22,6 @@ link the Script with HTML Document
 ```html
 <script src="https://fayismahmood.github.io/spash.github.io/src/js/hashspa.js"></script>
 ```
+```javascript
+var Home=new HashSpa(Path,Page want to fetch,Dom element want to load page in)
+```
