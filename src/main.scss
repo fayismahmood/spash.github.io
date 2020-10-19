@@ -1,0 +1,12 @@
+@import "scss/vars";
+@import "scss/home.scss";
+body{
+    background: $c3Fade;
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+svg.ico{
+    height: 15px;
+    width: 15px;
+}

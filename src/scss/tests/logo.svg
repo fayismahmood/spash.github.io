@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+   
+        <path
+           style="fill: #3d5a80; stroke-width: 0.1; display: inline; fill-opacity: 1"
+           d="M 70.6 29.9 l 36.8 -6.3 V 86.8 L 69.9 79.4 Z"
+           id="rect10-0" />
+        <g
+           transform="matrix(0.6,0,0,0.6,16.3,-5.9)"
+           style="filter: url(#filter1078)"
+           id="g1066">
+          <path
+             style="fill: none; stroke: #ffffff; stroke-width: 12.3; stroke-linecap: butt; stroke-linejoin: miter; stroke-dasharray: none; stroke-miterlimit: 4; stroke-opacity: 1"
+             d="M 144.8 56.5 L 143.7 167.2"
+             id="path1015" />
+          <path
+             id="path1015-6"
+             d="M 118.6 57.3 L 117.5 163.7"
+             style="fill: none; stroke: #ffffff; stroke-width: 12.1; stroke-linecap: butt; stroke-linejoin: miter; stroke-dasharray: none; display: inline; stroke-miterlimit: 4; stroke-opacity: 1" />
+          <path
+             id="path1015-9"
+             d="M 165.6 86.5 L 96.8 96"
+             style="fill: none; stroke: #ffffff; stroke-width: 12.6; stroke-linecap: butt; stroke-linejoin: miter; stroke-dasharray: none; display: inline; stroke-miterlimit: 4; stroke-opacity: 1" />
+          <path
+             style="fill: none; stroke: #ffffff; stroke-width: 12.6; stroke-linecap: butt; stroke-linejoin: miter; stroke-dasharray: none; display: inline; stroke-miterlimit: 4; stroke-opacity: 1"
+             d="M 166.1 125 l -69.2 5.8"
+             id="path1015-9-3" />
+        </g>
+</svg>

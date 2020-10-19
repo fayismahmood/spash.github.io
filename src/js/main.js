@@ -1,0 +1,1 @@
+var Home=new HashSpa("","pages/home.html","#cont")
